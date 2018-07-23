@@ -1,0 +1,308 @@
+---------------------------------------------------------------
+[ 2018-06-19T12:43:16+08:00 ] 0.0.0.0 GET /wxshop/public/cms/pages/REST%20API%20Base%20URLorder/paginate?page=1&size=20
+[ info ] localhost:8888/wxshop/public/cms/pages/REST%20API%20Base%20URLorder/paginate?page=1&size=20 [运行时间：0.161946s][吞吐率：6.17req/s] [内存消耗：1,845.23kb] [文件加载：39]
+[ error ] module not exists:cms
+---------------------------------------------------------------
+[ 2018-06-19T12:45:09+08:00 ] 0.0.0.0 POST /wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app
+[ info ] localhost:8888/wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app [运行时间：0.062223s][吞吐率：16.07req/s] [内存消耗：1,844.90kb] [文件加载：39]
+[ error ] module not exists:cms
+---------------------------------------------------------------
+[ 2018-06-19T12:45:28+08:00 ] 0.0.0.0 POST /wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app
+[ info ] localhost:8888/wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app [运行时间：0.066672s][吞吐率：15.00req/s] [内存消耗：1,844.90kb] [文件加载：39]
+[ error ] module not exists:cms
+---------------------------------------------------------------
+[ 2018-06-19T14:15:00+08:00 ] 0.0.0.0 POST /wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app
+[ info ] localhost:8888/wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app [运行时间：0.066840s][吞吐率：14.96req/s] [内存消耗：1,847.78kb] [文件加载：39]
+[ error ] module not exists:cms
+---------------------------------------------------------------
+[ 2018-06-19T14:15:19+08:00 ] 0.0.0.0 POST /wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app
+[ info ] localhost:8888/wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app [运行时间：0.055416s][吞吐率：18.05req/s] [内存消耗：1,847.71kb] [文件加载：39]
+[ error ] module not exists:cms
+---------------------------------------------------------------
+[ 2018-06-19T14:19:57+08:00 ] 0.0.0.0 POST /wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app
+[ info ] localhost:8888/wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app [运行时间：0.051836s][吞吐率：19.29req/s] [内存消耗：1,847.71kb] [文件加载：39]
+[ error ] module not exists:cms
+---------------------------------------------------------------
+[ 2018-06-19T14:20:05+08:00 ] 0.0.0.0 POST /wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app
+[ info ] localhost:8888/wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app [运行时间：0.040835s][吞吐率：24.49req/s] [内存消耗：1,847.71kb] [文件加载：39]
+[ error ] module not exists:cms
+---------------------------------------------------------------
+[ 2018-06-19T14:22:01+08:00 ] 0.0.0.0 POST /wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app
+[ info ] localhost:8888/wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app [运行时间：0.075863s][吞吐率：13.18req/s] [内存消耗：1,847.72kb] [文件加载：39]
+[ error ] module not exists:cms
+---------------------------------------------------------------
+[ 2018-06-19T14:33:10+08:00 ] 0.0.0.0 POST /wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app
+[ info ] localhost:8888/wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app [运行时间：0.084124s][吞吐率：11.89req/s] [内存消耗：1,847.95kb] [文件加载：39]
+[ error ] module not exists:cms
+---------------------------------------------------------------
+[ 2018-06-19T14:33:38+08:00 ] 0.0.0.0 POST /wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app
+[ info ] localhost:8888/wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app [运行时间：0.063551s][吞吐率：15.74req/s] [内存消耗：1,847.89kb] [文件加载：39]
+[ error ] module not exists:cms
+---------------------------------------------------------------
+[ 2018-06-19T14:34:44+08:00 ] 0.0.0.0 POST /wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app
+[ info ] localhost:8888/wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app [运行时间：0.065427s][吞吐率：15.28req/s] [内存消耗：1,847.89kb] [文件加载：39]
+[ error ] module not exists:cms
+---------------------------------------------------------------
+[ 2018-06-19T14:34:49+08:00 ] 0.0.0.0 POST /wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app
+[ info ] localhost:8888/wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app [运行时间：0.035049s][吞吐率：28.53req/s] [内存消耗：1,847.91kb] [文件加载：39]
+[ error ] module not exists:cms
+---------------------------------------------------------------
+[ 2018-06-19T14:37:52+08:00 ] 0.0.0.0 POST /wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app
+[ info ] localhost:8888/wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app [运行时间：0.087377s][吞吐率：11.44req/s] [内存消耗：1,847.69kb] [文件加载：39]
+[ error ] module not exists:cms
+---------------------------------------------------------------
+[ 2018-06-19T14:38:05+08:00 ] 0.0.0.0 POST /wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app
+[ info ] localhost:8888/wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app [运行时间：0.060942s][吞吐率：16.41req/s] [内存消耗：1,848.05kb] [文件加载：39]
+[ error ] module not exists:cms
+---------------------------------------------------------------
+[ 2018-06-19T15:01:12+08:00 ] 0.0.0.0 POST /wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app
+[ info ] localhost:8888/wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app [运行时间：0.078396s][吞吐率：12.76req/s] [内存消耗：1,847.78kb] [文件加载：39]
+[ error ] module not exists:cms
+---------------------------------------------------------------
+[ 2018-06-19T15:06:15+08:00 ] 0.0.0.0 POST /wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app
+[ info ] localhost:8888/wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app [运行时间：0.073739s][吞吐率：13.56req/s] [内存消耗：1,847.86kb] [文件加载：39]
+[ error ] module not exists:cms
+---------------------------------------------------------------
+[ 2018-06-19T15:09:26+08:00 ] 0.0.0.0 POST /wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app
+[ info ] localhost:8888/wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app [运行时间：0.084587s][吞吐率：11.82req/s] [内存消耗：1,847.77kb] [文件加载：39]
+[ error ] module not exists:cms
+---------------------------------------------------------------
+[ 2018-06-19T15:09:27+08:00 ] 0.0.0.0 POST /wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app
+[ info ] localhost:8888/wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app [运行时间：0.043937s][吞吐率：22.76req/s] [内存消耗：1,847.95kb] [文件加载：39]
+[ error ] module not exists:cms
+---------------------------------------------------------------
+[ 2018-06-19T15:16:16+08:00 ] 0.0.0.0 POST /wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app
+[ info ] localhost:8888/wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app [运行时间：0.076283s][吞吐率：13.11req/s] [内存消耗：1,847.77kb] [文件加载：39]
+[ error ] module not exists:cms
+---------------------------------------------------------------
+[ 2018-06-19T15:24:23+08:00 ] 0.0.0.0 GET /wxshop/public/admin/index/index
+[ info ] localhost:8888/wxshop/public/admin/index/index [运行时间：0.079935s][吞吐率：12.51req/s] [内存消耗：2,228.74kb] [文件加载：47]
+[ error ] [8]Use of undefined constant console - assumed 'console'[/Applications/MAMP/htdocs/wxshop/application/admin/controller/Index.php:9]
+[ error ] Use of undefined constant console - assumed 'console'
+---------------------------------------------------------------
+[ 2018-06-19T15:29:46+08:00 ] 0.0.0.0 GET /wxshop/public/api/v1/banner/1
+[ info ] localhost:8888/wxshop/public/api/v1/banner/1 [运行时间：0.039544s][吞吐率：25.29req/s] [内存消耗：1,872.34kb] [文件加载：40]
+[ error ] [64]Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)[/Applications/MAMP/htdocs/wxshop/application/api/common.php:33]
+[ error ] Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)
+---------------------------------------------------------------
+[ 2018-06-19T15:30:22+08:00 ] 0.0.0.0 GET /wxshop/public/api/v1/banner/1
+[ info ] localhost:8888/wxshop/public/api/v1/banner/1 [运行时间：0.053717s][吞吐率：18.62req/s] [内存消耗：1,872.34kb] [文件加载：40]
+[ error ] [64]Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)[/Applications/MAMP/htdocs/wxshop/application/api/common.php:33]
+[ error ] Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)
+---------------------------------------------------------------
+[ 2018-06-19T15:42:39+08:00 ] 0.0.0.0 GET /wxshop/public/api/v1/banner/1
+[ info ] localhost:8888/wxshop/public/api/v1/banner/1 [运行时间：0.368117s][吞吐率：2.72req/s] [内存消耗：1,873.97kb] [文件加载：40]
+[ error ] [64]Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)[/Applications/MAMP/htdocs/wxshop/application/api/common.php:33]
+[ error ] Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)
+---------------------------------------------------------------
+[ 2018-06-19T15:42:39+08:00 ] 0.0.0.0 GET /wxshop/public/api/v1/banner/1
+[ info ] localhost:8888/wxshop/public/api/v1/banner/1 [运行时间：0.078012s][吞吐率：12.82req/s] [内存消耗：1,873.97kb] [文件加载：40]
+[ error ] [64]Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)[/Applications/MAMP/htdocs/wxshop/application/api/common.php:33]
+[ error ] Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)
+---------------------------------------------------------------
+[ 2018-06-19T15:43:50+08:00 ] 0.0.0.0 GET /wxshop/public/api/v1/banner/1
+[ info ] localhost:8888/wxshop/public/api/v1/banner/1 [运行时间：0.115008s][吞吐率：8.70req/s] [内存消耗：1,873.69kb] [文件加载：40]
+[ error ] [64]Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)[/Applications/MAMP/htdocs/wxshop/application/api/common.php:33]
+[ error ] Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)
+---------------------------------------------------------------
+[ 2018-06-19T15:50:28+08:00 ] 0.0.0.0 GET /wxshop/public/api/v1/banner/1
+[ info ] localhost:8888/wxshop/public/api/v1/banner/1 [运行时间：0.124181s][吞吐率：8.05req/s] [内存消耗：1,873.63kb] [文件加载：40]
+[ error ] [64]Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)[/Applications/MAMP/htdocs/wxshop/application/api/common.php:33]
+[ error ] Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)
+---------------------------------------------------------------
+[ 2018-06-19T15:50:31+08:00 ] 0.0.0.0 GET /wxshop/public/api/v1/banner/1
+[ info ] localhost:8888/wxshop/public/api/v1/banner/1 [运行时间：0.056964s][吞吐率：17.55req/s] [内存消耗：1,873.63kb] [文件加载：40]
+[ error ] [64]Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)[/Applications/MAMP/htdocs/wxshop/application/api/common.php:33]
+[ error ] Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)
+---------------------------------------------------------------
+[ 2018-06-19T15:50:51+08:00 ] 0.0.0.0 GET /wxshop/public/api/v1/banner/1
+[ info ] localhost:8888/wxshop/public/api/v1/banner/1 [运行时间：0.091085s][吞吐率：10.98req/s] [内存消耗：1,873.38kb] [文件加载：40]
+[ error ] [64]Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)[/Applications/MAMP/htdocs/wxshop/application/api/common.php:33]
+[ error ] Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)
+---------------------------------------------------------------
+[ 2018-06-19T15:51:07+08:00 ] 0.0.0.0 GET /wxshop/public/api/v1/banner/1
+[ info ] localhost:8888/wxshop/public/api/v1/banner/1 [运行时间：0.067634s][吞吐率：14.79req/s] [内存消耗：1,873.33kb] [文件加载：40]
+[ error ] [64]Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)[/Applications/MAMP/htdocs/wxshop/application/api/common.php:33]
+[ error ] Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)
+---------------------------------------------------------------
+[ 2018-06-19T15:51:15+08:00 ] 0.0.0.0 POST /wxshop/public/api/v1/token/verify
+[ info ] localhost:8888/wxshop/public/api/v1/token/verify [运行时间：0.591427s][吞吐率：1.69req/s] [内存消耗：1,874.26kb] [文件加载：40]
+[ error ] [64]Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)[/Applications/MAMP/htdocs/wxshop/application/api/common.php:33]
+[ error ] Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)
+---------------------------------------------------------------
+[ 2018-06-19T15:51:15+08:00 ] 0.0.0.0 GET /wxshop/public/api/v1/product/recent
+[ info ] localhost:8888/wxshop/public/api/v1/product/recent [运行时间：0.070959s][吞吐率：14.09req/s] [内存消耗：1,874.09kb] [文件加载：40]
+[ error ] [64]Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)[/Applications/MAMP/htdocs/wxshop/application/api/common.php:33]
+[ error ] Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)
+---------------------------------------------------------------
+[ 2018-06-19T15:51:15+08:00 ] 0.0.0.0 GET /wxshop/public/api/v1/banner/1
+[ info ] localhost:8888/wxshop/public/api/v1/banner/1 [运行时间：0.221566s][吞吐率：4.51req/s] [内存消耗：1,874.28kb] [文件加载：40]
+[ error ] [64]Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)[/Applications/MAMP/htdocs/wxshop/application/api/common.php:33]
+[ error ] Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)
+---------------------------------------------------------------
+[ 2018-06-19T15:51:15+08:00 ] 0.0.0.0 GET /wxshop/public/api/v1/theme?ids=1,2,3
+[ info ] localhost:8888/wxshop/public/api/v1/theme?ids=1,2,3 [运行时间：0.245579s][吞吐率：4.07req/s] [内存消耗：1,874.23kb] [文件加载：40]
+[ error ] [64]Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)[/Applications/MAMP/htdocs/wxshop/application/api/common.php:33]
+[ error ] Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)
+---------------------------------------------------------------
+[ 2018-06-19T15:51:15+08:00 ] 0.0.0.0 POST /wxshop/public/api/v1/token/user
+[ info ] localhost:8888/wxshop/public/api/v1/token/user [运行时间：0.328214s][吞吐率：3.05req/s] [内存消耗：1,874.28kb] [文件加载：40]
+[ error ] [64]Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)[/Applications/MAMP/htdocs/wxshop/application/api/common.php:33]
+[ error ] Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)
+---------------------------------------------------------------
+[ 2018-06-19T15:53:51+08:00 ] 0.0.0.0 GET /wxshop/public/api/v1/banner/1
+[ info ] localhost:8888/wxshop/public/api/v1/banner/1 [运行时间：0.097172s][吞吐率：10.29req/s] [内存消耗：1,873.17kb] [文件加载：40]
+[ error ] [64]Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)[/Applications/MAMP/htdocs/wxshop/application/api/common.php:33]
+[ error ] Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)
+---------------------------------------------------------------
+[ 2018-06-19T15:54:00+08:00 ] 0.0.0.0 GET /wxshop/public/api/v1/banner/1
+[ info ] localhost:8888/wxshop/public/api/v1/banner/1 [运行时间：0.064475s][吞吐率：15.51req/s] [内存消耗：1,873.17kb] [文件加载：40]
+[ error ] [64]Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)[/Applications/MAMP/htdocs/wxshop/application/api/common.php:33]
+[ error ] Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)
+---------------------------------------------------------------
+[ 2018-06-19T15:54:06+08:00 ] 0.0.0.0 GET /wxshop/public/api/v1/banner/1
+[ info ] localhost:8888/wxshop/public/api/v1/banner/1 [运行时间：0.085199s][吞吐率：11.74req/s] [内存消耗：1,873.33kb] [文件加载：40]
+[ error ] [64]Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)[/Applications/MAMP/htdocs/wxshop/application/api/common.php:33]
+[ error ] Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)
+---------------------------------------------------------------
+[ 2018-06-19T15:55:31+08:00 ] 0.0.0.0 GET /wxshop/public/api/v1/banner/1
+[ info ] localhost:8888/wxshop/public/api/v1/banner/1 [运行时间：0.080613s][吞吐率：12.40req/s] [内存消耗：1,873.33kb] [文件加载：40]
+[ error ] [64]Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)[/Applications/MAMP/htdocs/wxshop/application/api/common.php:33]
+[ error ] Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)
+---------------------------------------------------------------
+[ 2018-06-19T15:58:46+08:00 ] 0.0.0.0 GET /wxshop/public/api/v1/banner/1?callback=jQuery1111043498443108586393_1529395124679&_=1529395124680
+[ info ] localhost:8888/wxshop/public/api/v1/banner/1?callback=jQuery1111043498443108586393_1529395124679&_=1529395124680 [运行时间：0.094791s][吞吐率：10.55req/s] [内存消耗：1,875.45kb] [文件加载：40]
+[ error ] [64]Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)[/Applications/MAMP/htdocs/wxshop/application/api/common.php:33]
+[ error ] Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)
+---------------------------------------------------------------
+[ 2018-06-19T15:59:04+08:00 ] 0.0.0.0 GET /wxshop/public/api/v1/theme/ids=1,2,3
+[ info ] localhost:8888/wxshop/public/api/v1/theme/ids=1,2,3 [运行时间：0.131524s][吞吐率：7.60req/s] [内存消耗：1,873.71kb] [文件加载：40]
+[ error ] [64]Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)[/Applications/MAMP/htdocs/wxshop/application/api/common.php:33]
+[ error ] Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)
+---------------------------------------------------------------
+[ 2018-06-19T15:59:07+08:00 ] 0.0.0.0 GET /wxshop/public/api/v1/theme/ids=1,2,3
+[ info ] localhost:8888/wxshop/public/api/v1/theme/ids=1,2,3 [运行时间：0.065743s][吞吐率：15.21req/s] [内存消耗：1,873.71kb] [文件加载：40]
+[ error ] [64]Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)[/Applications/MAMP/htdocs/wxshop/application/api/common.php:33]
+[ error ] Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)
+---------------------------------------------------------------
+[ 2018-06-19T16:06:07+08:00 ] 0.0.0.0 GET /wxshop/public/api/v1/theme/ids=1,2,3
+[ info ] localhost:8888/wxshop/public/api/v1/theme/ids=1,2,3 [运行时间：0.113313s][吞吐率：8.83req/s] [内存消耗：1,873.43kb] [文件加载：40]
+[ error ] [64]Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)[/Applications/MAMP/htdocs/wxshop/application/api/common.php:33]
+[ error ] Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)
+---------------------------------------------------------------
+[ 2018-06-19T16:14:09+08:00 ] 0.0.0.0 GET /wxshop/public/api/v1/theme/ids=1,2,3
+[ info ] localhost:8888/wxshop/public/api/v1/theme/ids=1,2,3 [运行时间：0.082482s][吞吐率：12.12req/s] [内存消耗：1,873.71kb] [文件加载：40]
+[ error ] [64]Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)[/Applications/MAMP/htdocs/wxshop/application/api/common.php:33]
+[ error ] Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)
+---------------------------------------------------------------
+[ 2018-06-19T16:14:20+08:00 ] 0.0.0.0 GET /wxshop/public/api/v1/banner/1
+[ info ] localhost:8888/wxshop/public/api/v1/banner/1 [运行时间：0.060159s][吞吐率：16.62req/s] [内存消耗：1,873.33kb] [文件加载：40]
+[ error ] [64]Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)[/Applications/MAMP/htdocs/wxshop/application/api/common.php:33]
+[ error ] Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)
+---------------------------------------------------------------
+[ 2018-06-19T16:15:38+08:00 ] 0.0.0.0 GET /wxshop/public/api/v1/banner/1
+[ info ] localhost:8888/wxshop/public/api/v1/banner/1 [运行时间：0.128743s][吞吐率：7.77req/s] [内存消耗：1,875.73kb] [文件加载：40]
+[ error ] [64]Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)[/Applications/MAMP/htdocs/wxshop/application/api/common.php:33]
+[ error ] Cannot redeclare curl_get() (previously declared in /Applications/MAMP/htdocs/wxshop/application/common.php:21)
+---------------------------------------------------------------
+[ 2018-06-19T16:24:26+08:00 ] 0.0.0.0 POST /wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app
+[ info ] localhost:8888/wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app [运行时间：0.060855s][吞吐率：16.43req/s] [内存消耗：1,847.23kb] [文件加载：39]
+[ error ] module not exists:cms
+---------------------------------------------------------------
+[ 2018-06-19T16:25:02+08:00 ] 0.0.0.0 GET /wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app
+[ info ] localhost:8888/wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app [运行时间：0.263426s][吞吐率：3.80req/s] [内存消耗：1,846.53kb] [文件加载：39]
+[ error ] module not exists:cms
+---------------------------------------------------------------
+[ 2018-06-19T16:26:42+08:00 ] 0.0.0.0 GET /wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app
+[ info ] localhost:8888/wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app [运行时间：0.210565s][吞吐率：4.75req/s] [内存消耗：1,846.53kb] [文件加载：39]
+[ error ] module not exists:cms
+---------------------------------------------------------------
+[ 2018-06-19T16:27:01+08:00 ] 0.0.0.0 POST /wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app
+[ info ] localhost:8888/wxshop/public/cms/pages/REST%20API%20Base%20URLtoken/app [运行时间：0.062404s][吞吐率：16.02req/s] [内存消耗：1,847.44kb] [文件加载：39]
+[ error ] module not exists:cms
+---------------------------------------------------------------
+[ 2018-06-19T16:37:27+08:00 ] 0.0.0.0 GET /wxshop/public/admin/index/index
+[ info ] localhost:8888/wxshop/public/admin/index/index [运行时间：0.175988s][吞吐率：5.68req/s] [内存消耗：2,218.10kb] [文件加载：46]
+[ error ] [0]模板文件不存在:/Applications/MAMP/htdocs/wxshop/public/../application/admin/view/index/index.html[/Applications/MAMP/htdocs/wxshop/thinkphp/library/think/view/driver/Think.php:82]
+[ error ] template not exists:/Applications/MAMP/htdocs/wxshop/public/../application/admin/view/index/index.html
+---------------------------------------------------------------
+[ 2018-06-19T17:05:09+08:00 ] 0.0.0.0 GET /wxshop/public/admin/index/js/jquery-1.8.2.min.js
+[ info ] localhost:8888/wxshop/public/admin/index/js/jquery-1.8.2.min.js [运行时间：0.071912s][吞吐率：13.91req/s] [内存消耗：2,216.92kb] [文件加载：46]
+[ error ] method not exists:app\admin\controller\Index->js()
+---------------------------------------------------------------
+[ 2018-06-19T17:13:01+08:00 ] 0.0.0.0 OPTIONS /wxshop/public/api/v1/order/paginate?page=1&size=20
+[ info ] localhost:8888/wxshop/public/api/v1/order/paginate?page=1&size=20 [运行时间：0.058321s][吞吐率：17.15req/s] [内存消耗：1,857.91kb] [文件加载：41]
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2018-06-19T17:13:05+08:00 ] 0.0.0.0 OPTIONS /wxshop/public/api/v1/order/paginate?page=2&size=20
+[ info ] localhost:8888/wxshop/public/api/v1/order/paginate?page=2&size=20 [运行时间：0.048934s][吞吐率：20.44req/s] [内存消耗：1,857.57kb] [文件加载：41]
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2018-06-19T17:13:05+08:00 ] 0.0.0.0 OPTIONS /wxshop/public/api/v1/order/paginate?page=3&size=20
+[ info ] localhost:8888/wxshop/public/api/v1/order/paginate?page=3&size=20 [运行时间：0.044853s][吞吐率：22.30req/s] [内存消耗：1,857.57kb] [文件加载：41]
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2018-06-19T17:14:26+08:00 ] 0.0.0.0 POST /wxshop/public/api/v1/token/user
+[ info ] localhost:8888/wxshop/public/api/v1/token/user [运行时间：0.148045s][吞吐率：6.75req/s] [内存消耗：1,980.48kb] [文件加载：46]
+[ error ] [64]Access level to app\api\service\UserToken::saveToCache() must be public (as in class app\api\service\Token)[/Applications/MAMP/htdocs/wxshop/application/api/service/UserToken.php:19]
+[ error ] Access level to app\api\service\UserToken::saveToCache() must be public (as in class app\api\service\Token)
+---------------------------------------------------------------
+[ 2018-06-19T17:33:57+08:00 ] 0.0.0.0 POST /wxshop/public/api/v1/token/user
+[ info ] localhost:8888/wxshop/public/api/v1/token/user [运行时间：0.251463s][吞吐率：3.98req/s] [内存消耗：1,980.42kb] [文件加载：46]
+[ error ] [64]Access level to app\api\service\UserToken::saveToCache() must be public (as in class app\api\service\Token)[/Applications/MAMP/htdocs/wxshop/application/api/service/UserToken.php:19]
+[ error ] Access level to app\api\service\UserToken::saveToCache() must be public (as in class app\api\service\Token)
+---------------------------------------------------------------
+[ 2018-06-19T17:34:22+08:00 ] 0.0.0.0 POST /wxshop/public/api/v1/token/user
+[ info ] localhost:8888/wxshop/public/api/v1/token/user [运行时间：0.053273s][吞吐率：18.77req/s] [内存消耗：1,980.65kb] [文件加载：46]
+[ error ] [64]Access level to app\api\service\UserToken::saveToCache() must be public (as in class app\api\service\Token)[/Applications/MAMP/htdocs/wxshop/application/api/service/UserToken.php:19]
+[ error ] Access level to app\api\service\UserToken::saveToCache() must be public (as in class app\api\service\Token)
+---------------------------------------------------------------
+[ 2018-06-19T17:34:22+08:00 ] 0.0.0.0 POST /wxshop/public/api/v1/token/user
+[ info ] localhost:8888/wxshop/public/api/v1/token/user [运行时间：0.086475s][吞吐率：11.56req/s] [内存消耗：1,980.42kb] [文件加载：46]
+[ error ] [64]Access level to app\api\service\UserToken::saveToCache() must be public (as in class app\api\service\Token)[/Applications/MAMP/htdocs/wxshop/application/api/service/UserToken.php:19]
+[ error ] Access level to app\api\service\UserToken::saveToCache() must be public (as in class app\api\service\Token)
+---------------------------------------------------------------
+[ 2018-06-19T17:34:40+08:00 ] 0.0.0.0 POST /wxshop/public/api/v1/token/user
+[ info ] localhost:8888/wxshop/public/api/v1/token/user [运行时间：0.199200s][吞吐率：5.02req/s] [内存消耗：1,980.28kb] [文件加载：46]
+[ error ] [64]Access level to app\api\service\UserToken::saveToCache() must be public (as in class app\api\service\Token)[/Applications/MAMP/htdocs/wxshop/application/api/service/UserToken.php:19]
+[ error ] Access level to app\api\service\UserToken::saveToCache() must be public (as in class app\api\service\Token)
+---------------------------------------------------------------
+[ 2018-06-19T19:12:06+08:00 ] 0.0.0.0 POST /wxshop/public/api/v1/pays/pre_order
+[ info ] localhost:8888/wxshop/public/api/v1/pays/pre_order [运行时间：0.377724s][吞吐率：2.65req/s] [内存消耗：4,779.31kb] [文件加载：77]
+[ error ] array (
+  'return_code' => 'FAIL',
+  'return_msg' => 'invalid spbill_create_ip',//本地测试
+)
+[ error ] 获取预支付订单失败
+[ error ] [0]访问统一下订单接口失败[/Applications/MAMP/htdocs/wxshop/application/api/service/Pays.php:101]
+[ error ] 访问统一下订单接口失败
+---------------------------------------------------------------
+[ 2018-06-19T19:20:27+08:00 ] 0.0.0.0 POST /wxshop/public/api/v1/pays/pre_order
+[ info ] localhost:8888/wxshop/public/api/v1/pays/pre_order [运行时间：0.480260s][吞吐率：2.08req/s] [内存消耗：4,822.02kb] [文件加载：78]
+[ error ] [1]Cannot use object of type WxPayUnifiedOrder as array[/Applications/MAMP/htdocs/wxshop/application/api/service/Pays.php:97]
+[ error ] Cannot use object of type WxPayUnifiedOrder as array
+---------------------------------------------------------------
+[ 2018-06-19T19:43:14+08:00 ] 0.0.0.0 POST /wxshop/public/api/v1/pays/pre_order
+[ info ] localhost:8888/wxshop/public/api/v1/pays/pre_order [运行时间：0.488219s][吞吐率：2.05req/s] [内存消耗：4,787.95kb] [文件加载：78]
+[ error ] [2]json_decode() expects parameter 1 to be string, array given[/Applications/MAMP/htdocs/wxshop/extend/WxPay/WxPay.Api.php:67]
+[ error ] json_decode() expects parameter 1 to be string, array given
+---------------------------------------------------------------
+[ 2018-06-19T22:28:52+08:00 ] 0.0.0.0 GET /wxshop/public/static/cms/pages/login.html
+[ info ] localhost:8888/wxshop/public/static/cms/pages/login.html [运行时间：0.071703s][吞吐率：13.95req/s] [内存消耗：1,846.91kb] [文件加载：39]
+[ error ] module not exists:static
+---------------------------------------------------------------
+[ 2018-06-19T22:29:50+08:00 ] 0.0.0.0 OPTIONS /wxshop/public/api/v1/order/paginate?page=1&size=20
+[ info ] localhost:8888/wxshop/public/api/v1/order/paginate?page=1&size=20 [运行时间：0.059438s][吞吐率：16.82req/s] [内存消耗：1,857.90kb] [文件加载：41]
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2018-06-19T22:45:31+08:00 ] 0.0.0.0 OPTIONS /wxshop/public/api/v1/order/paginate?page=1&size=20
+[ info ] localhost:8888/wxshop/public/api/v1/order/paginate?page=1&size=20 [运行时间：0.065412s][吞吐率：15.29req/s] [内存消耗：1,857.90kb] [文件加载：41]
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2018-06-19T22:50:19+08:00 ] 0.0.0.0 OPTIONS /wxshop/public/api/v1/order/paginate?page=1&size=20
+[ info ] localhost:8888/wxshop/public/api/v1/order/paginate?page=1&size=20 [运行时间：0.081440s][吞吐率：12.28req/s] [内存消耗：1,857.57kb] [文件加载：41]
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2018-06-19T22:50:38+08:00 ] 0.0.0.0 OPTIONS /wxshop/public/api/v1/order/paginate?page=1&size=20
+[ info ] localhost:8888/wxshop/public/api/v1/order/paginate?page=1&size=20 [运行时间：0.054719s][吞吐率：18.28req/s] [内存消耗：1,857.90kb] [文件加载：41]
+[ error ] controller not exists:app\api\controller\V1

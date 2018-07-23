@@ -1,0 +1,44 @@
+---------------------------------------------------------------
+[ 2018-07-17T18:04:17+08:00 ] 0.0.0.0 GET /wxshop/public/api/v1/product/by_category?id=2
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+[ error ] SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+---------------------------------------------------------------
+[ 2018-07-17T18:04:18+08:00 ] 0.0.0.0 GET /wxshop/public/api/v1/product/by_category?id=2
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+[ error ] SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+---------------------------------------------------------------
+[ 2018-07-17T18:04:19+08:00 ] 0.0.0.0 GET /wxshop/public/api/v1/product/by_category?id=2
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+[ error ] SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+---------------------------------------------------------------
+[ 2018-07-17T18:04:22+08:00 ] 0.0.0.0 GET /wxshop/public/api/v1/product/recent
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+[ error ] SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+---------------------------------------------------------------
+[ 2018-07-17T18:04:22+08:00 ] 0.0.0.0 GET /wxshop/public/api/v1/banner/1
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+[ error ] SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+---------------------------------------------------------------
+[ 2018-07-17T18:04:22+08:00 ] 0.0.0.0 GET /wxshop/public/api/v1/theme?ids=1,2,3
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+[ error ] SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+---------------------------------------------------------------
+[ 2018-07-17T18:04:24+08:00 ] 0.0.0.0 GET /wxshop/public/api/v1/category/all
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+[ error ] SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+---------------------------------------------------------------
+[ 2018-07-17T18:04:30+08:00 ] 0.0.0.0 GET /wxshop/public/api/v1/banner/1
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+[ error ] SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+---------------------------------------------------------------
+[ 2018-07-17T18:04:31+08:00 ] 0.0.0.0 GET /wxshop/public/api/v1/theme?ids=1,2,3
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+[ error ] SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+---------------------------------------------------------------
+[ 2018-07-17T18:04:31+08:00 ] 0.0.0.0 GET /wxshop/public/api/v1/product/recent
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+[ error ] SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+---------------------------------------------------------------
+[ 2018-07-17T18:15:14+08:00 ] 0.0.0.0 GET /wxshop/public/api/v1/banner/1
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+[ error ] SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)

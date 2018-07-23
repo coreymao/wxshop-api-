@@ -1,0 +1,37 @@
+---------------------------------------------------------------
+[ 2018-06-15T00:39:04+08:00 ] 0.0.0.0 POST /wxshop/public/api/v1/token/verify
+[ info ] localhost:8888/wxshop/public/api/v1/token/verify [运行时间：0.319493s][吞吐率：3.13req/s] [内存消耗：1,851.87kb] [文件加载：41]
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2018-06-15T10:37:27+08:00 ] 0.0.0.0 POST /wxshop/public/api/v1/token/verify
+[ info ] localhost:8888/wxshop/public/api/v1/token/verify [运行时间：0.215543s][吞吐率：4.64req/s] [内存消耗：1,851.70kb] [文件加载：41]
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2018-06-15T10:52:39+08:00 ] 0.0.0.0 POST /wxshop/public/api/v1/token/verify
+[ info ] localhost:8888/wxshop/public/api/v1/token/verify [运行时间：0.313550s][吞吐率：3.19req/s] [内存消耗：1,851.70kb] [文件加载：41]
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2018-06-15T21:40:58+08:00 ] 0.0.0.0 POST /wxshop/public/api/v1/order
+[ info ] localhost:8888/wxshop/public/api/v1/order [运行时间：0.102737s][吞吐率：9.73req/s] [内存消耗：2,481.00kb] [文件加载：57]
+[ error ] [2]Invalid argument supplied for foreach()[/Applications/MAMP/htdocs/wxshop/application/api/service/Order.php:74]
+[ error ] Invalid argument supplied for foreach()
+---------------------------------------------------------------
+[ 2018-06-15T22:58:43+08:00 ] 0.0.0.0 POST /wxshop/public/api/v1/token/verify
+[ info ] localhost:8888/wxshop/public/api/v1/token/verify [运行时间：0.087823s][吞吐率：11.39req/s] [内存消耗：1,851.70kb] [文件加载：41]
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2018-06-15T23:01:08+08:00 ] 0.0.0.0 POST /wxshop/public/api/v1/token/verify
+[ info ] localhost:8888/wxshop/public/api/v1/token/verify [运行时间：0.631000s][吞吐率：1.58req/s] [内存消耗：1,851.84kb] [文件加载：41]
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2018-06-15T23:01:08+08:00 ] 0.0.0.0 POST /wxshop/public/api/v1/token/verify
+[ info ] localhost:8888/wxshop/public/api/v1/token/verify [运行时间：0.118090s][吞吐率：8.47req/s] [内存消耗：1,851.70kb] [文件加载：41]
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2018-06-15T23:01:10+08:00 ] 0.0.0.0 POST /wxshop/public/api/v1/token/verify
+[ info ] localhost:8888/wxshop/public/api/v1/token/verify [运行时间：0.078919s][吞吐率：12.67req/s] [内存消耗：1,852.10kb] [文件加载：41]
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2018-06-15T23:01:56+08:00 ] 0.0.0.0 POST /wxshop/public/api/v1/token/verify
+[ info ] localhost:8888/wxshop/public/api/v1/token/verify [运行时间：0.244162s][吞吐率：4.10req/s] [内存消耗：1,851.70kb] [文件加载：41]
+[ error ] controller not exists:app\api\controller\V1

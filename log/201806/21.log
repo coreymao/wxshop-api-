@@ -1,0 +1,10 @@
+---------------------------------------------------------------
+[ 2018-06-21T00:12:19+08:00 ] 0.0.0.0 PUT /wxshop/public/api/v1/order/delivery
+[ info ] localhost:8888/wxshop/public/api/v1/order/delivery [运行时间：0.379483s][吞吐率：2.64req/s] [内存消耗：4,093.71kb] [文件加载：71]
+[ error ] [2]Missing argument 1 for app\api\service\WxMessage::sendMessage(), called in /Applications/MAMP/htdocs/wxshop/application/api/service/DeliveryMessage.php on line 28 and defined[/Applications/MAMP/htdocs/wxshop/application/api/service/WxMessage.php:41]
+[ error ] Missing argument 1 for app\api\service\WxMessage::sendMessage(), called in /Applications/MAMP/htdocs/wxshop/application/api/service/DeliveryMessage.php on line 28 and defined
+---------------------------------------------------------------
+[ 2018-06-21T00:12:23+08:00 ] 0.0.0.0 PUT /wxshop/public/api/v1/order/delivery
+[ info ] localhost:8888/wxshop/public/api/v1/order/delivery [运行时间：0.091559s][吞吐率：10.92req/s] [内存消耗：4,092.05kb] [文件加载：71]
+[ error ] [8]Array to string conversion[/Applications/MAMP/htdocs/wxshop/application/api/service/WxMessage.php:29]
+[ error ] Array to string conversion

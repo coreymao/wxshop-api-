@@ -1,0 +1,19 @@
+---------------------------------------------------------------
+[ 2018-07-21T11:35:06+08:00 ] 0.0.0.0 POST /wxshop/public/api/v1/pays/pre_order
+[ error ] array (
+  'appid' => 'wx07c8a4be20a538a4',
+  'err_code' => 'ORDERPAID',
+  'err_code_des' => '该订单已支付',
+  'mch_id' => '1504289991',
+  'nonce_str' => 'c0RLZ7fWGs7IZcRa',
+  'result_code' => 'FAIL',
+  'return_code' => 'SUCCESS',
+  'return_msg' => 'OK',
+  'sign' => '1101E8C3625CD420C8D1B0FE4221FF7F',
+)
+[ error ] 获取预支付订单失败
+[ error ] [0]访问统一下订单接口失败
+[ error ] 访问统一下订单接口失败
+---------------------------------------------------------------
+[ 2018-07-21T11:35:30+08:00 ] 0.0.0.0 GET /wxshop/public/api/v1/pays/pre_order
+[ error ] controller not exists:app\api\controller\V1

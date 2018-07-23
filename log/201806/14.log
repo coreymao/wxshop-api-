@@ -1,0 +1,8 @@
+---------------------------------------------------------------
+[ 2018-06-14T20:25:44+08:00 ] 0.0.0.0 GET /wxshop/public/api/v1/address
+[ info ] localhost:8888/wxshop/public/api/v1/address [运行时间：0.298058s][吞吐率：3.36req/s] [内存消耗：1,850.34kb] [文件加载：41]
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2018-06-14T20:25:44+08:00 ] 0.0.0.0 GET /wxshop/public/api/v1/order/by_user?page=1
+[ info ] localhost:8888/wxshop/public/api/v1/order/by_user?page=1 [运行时间：0.412422s][吞吐率：2.42req/s] [内存消耗：1,850.80kb] [文件加载：41]
+[ error ] controller not exists:app\api\controller\V1

@@ -1,0 +1,12 @@
+---------------------------------------------------------------
+[ 2018-06-13T17:07:18+08:00 ] 0.0.0.0 GET /wxshop/public/api/v1/
+[ info ] localhost:8888/wxshop/public/api/v1/ [运行时间：0.142319s][吞吐率：7.03req/s] [内存消耗：1,850.30kb] [文件加载：41]
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2018-06-13T20:04:06+08:00 ] 0.0.0.0 GET /wxshop/public/images/product-vg@1.png
+[ info ] localhost:8888/wxshop/public/images/product-vg@1.png [运行时间：0.267758s][吞吐率：3.73req/s] [内存消耗：1,835.59kb] [文件加载：39]
+[ error ] module not exists:images
+---------------------------------------------------------------
+[ 2018-06-13T20:05:42+08:00 ] 0.0.0.0 GET /wxshop/public/images/product-vg@1.png
+[ info ] localhost:8888/wxshop/public/images/product-vg@1.png [运行时间：0.251867s][吞吐率：3.97req/s] [内存消耗：1,838.10kb] [文件加载：39]
+[ error ] module not exists:images

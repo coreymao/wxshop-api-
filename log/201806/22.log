@@ -1,0 +1,5 @@
+---------------------------------------------------------------
+[ 2018-06-22T23:31:39+08:00 ] 0.0.0.0 POST /wxshop/public/api/v1/token/user
+[ info ] localhost:8888/wxshop/public/api/v1/token/user [运行时间：0.063677s][吞吐率：15.70req/s] [内存消耗：3,497.73kb] [文件加载：56]
+[ error ] [2002]SQLSTATE[HY000] [2002] No such file or directory[/Applications/MAMP/htdocs/wxshop/thinkphp/library/think/db/Connection.php:295]
+[ error ] SQLSTATE[HY000] [2002] No such file or directory

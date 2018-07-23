@@ -1,0 +1,36 @@
+---------------------------------------------------------------
+[ 2018-06-18T12:23:52+08:00 ] 0.0.0.0 GET /wxshop/public/api/v1/order/by_user?page=1
+[ info ] localhost:8888/wxshop/public/api/v1/order/by_user?page=1 [运行时间：0.148551s][吞吐率：6.73req/s] [内存消耗：1,856.60kb] [文件加载：41]
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2018-06-18T15:01:23+08:00 ] 0.0.0.0 POST /wxshop/public/api/v1/banner/1
+[ info ] localhost:8888/wxshop/public/api/v1/banner/1 [运行时间：0.084521s][吞吐率：11.83req/s] [内存消耗：1,856.24kb] [文件加载：41]
+[ error ] controller not exists:app\api\controller\V1
+---------------------------------------------------------------
+[ 2018-06-18T15:25:08+08:00 ] 0.0.0.0 GET /wxshop/public/images/product-cup@7.jpg
+[ info ] localhost:8888/wxshop/public/images/product-cup@7.jpg [运行时间：0.230417s][吞吐率：4.34req/s] [内存消耗：1,841.69kb] [文件加载：39]
+[ error ] module not exists:images
+---------------------------------------------------------------
+[ 2018-06-18T15:25:10+08:00 ] 0.0.0.0 GET /wxshop/public/images/product-cup@7.jpg
+[ info ] localhost:8888/wxshop/public/images/product-cup@7.jpg [运行时间：0.036294s][吞吐率：27.55req/s] [内存消耗：1,841.55kb] [文件加载：39]
+[ error ] module not exists:images
+---------------------------------------------------------------
+[ 2018-06-18T15:25:24+08:00 ] 0.0.0.0 GET /wxshop/public/images/product-cup@7.jpg
+[ info ] localhost:8888/wxshop/public/images/product-cup@7.jpg [运行时间：0.065866s][吞吐率：15.18req/s] [内存消耗：1,841.66kb] [文件加载：39]
+[ error ] module not exists:images
+---------------------------------------------------------------
+[ 2018-06-18T15:25:32+08:00 ] 0.0.0.0 GET /wxshop/public/images/product-cup@7.jpg
+[ info ] localhost:8888/wxshop/public/images/product-cup@7.jpg [运行时间：0.079781s][吞吐率：12.53req/s] [内存消耗：1,841.66kb] [文件加载：39]
+[ error ] module not exists:images
+---------------------------------------------------------------
+[ 2018-06-18T17:44:23+08:00 ] 0.0.0.0 GET /wxshop/public/images/product-cup@10.jpg
+[ info ] localhost:8888/wxshop/public/images/product-cup@10.jpg [运行时间：0.234436s][吞吐率：4.27req/s] [内存消耗：1,842.19kb] [文件加载：39]
+[ error ] module not exists:images
+---------------------------------------------------------------
+[ 2018-06-18T17:47:37+08:00 ] 0.0.0.0 GET /wxshop/public/images/product-cup@5.jpg
+[ info ] localhost:8888/wxshop/public/images/product-cup@5.jpg [运行时间：0.191814s][吞吐率：5.21req/s] [内存消耗：1,841.66kb] [文件加载：39]
+[ error ] module not exists:images
+---------------------------------------------------------------
+[ 2018-06-18T17:47:46+08:00 ] 0.0.0.0 GET /wxshop/public/images/product-cup@5.jpg
+[ info ] localhost:8888/wxshop/public/images/product-cup@5.jpg [运行时间：0.066388s][吞吐率：15.06req/s] [内存消耗：1,841.86kb] [文件加载：39]
+[ error ] module not exists:images
